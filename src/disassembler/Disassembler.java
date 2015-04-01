@@ -1,16 +1,29 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+*
 
-package disassembler;
+ @author Christina Ford
+ @date 2/22/2015
 
-/**
+ This file is part of the Simple Intel 32-bit Disassembler (SI 32D).
+
+ SI 32D is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ SI 32D is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with SI 32D.  If not, see <http://www.gnu.org/licenses/>.
+
  *
- * @author Christina Ford
- * 2/22/2015
  */
+ 
+package disassembler;
+ 
 public class Disassembler {
 
     /**
